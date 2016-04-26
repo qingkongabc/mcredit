@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="mcredit">
+    <output-path>$PROJECT_DIR$/out/artifacts/mcredit</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$PROJECT_DIR$/WebRoot" />
+    </root>
+  </artifact>
+</component>
